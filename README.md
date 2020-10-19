@@ -9,7 +9,7 @@ azeayoub76@gmail.com
 AND IF YOU WANT TO SUPPORT ME ON PAYPAL:
 azeayoub76@gmail.com
 
-see image.png is a screenshot is the home page of the website!
+see image.png is a screenshot for the home page of the website!
 
 this website template is a eCommerce website HTML &amp; CSS &amp; PHP
 
