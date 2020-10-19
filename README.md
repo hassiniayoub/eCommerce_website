@@ -2,6 +2,13 @@
 
 CREATED BY HASSINI AYOUB
 
+first thing that this website is on arabic language
+if you want to rtanslate him contact me:
+azeayoub76@gmail.com
+
+AND IF YOU WANT TO SUPPORT ME ON PAYPAL:
+azeayoub76@gmail.com
+
 this website template is a eCommerce website HTML &amp; CSS &amp; PHP
 
 you need to read this instruction below:
