@@ -1,0 +1,49 @@
+RewriteEngine on
+
+RewriteRule ^admin ./assets/pg/admins/admin.php [NC,L]
+RewriteRule ^style ./assets/pg/admins/css/style.css [NC,L]
+RewriteRule ^bg1 ./assets/pg/admins/img/bg1.jpg [L]
+RewriteRule ^home ./assets/pg/admins/home.php [NC,L]
+RewriteRule ^logout ./assets/pg/admins/logout.php [NC,L]
+
+RewriteRule ^products ./assets/pg/admins/products.php [NC,L]
+RewriteRule ^add_product ./assets/pg/admins/add_product.php [NC,L]
+RewriteRule ^requests ./assets/pg/admins/requests.php [NC,L]
+RewriteRule ^req1 ./assets/pg/admins/requests_wait_confrm.php [NC,L]
+RewriteRule ^req2 ./assets/pg/admins/requests_wait_ship.php [NC,L]
+RewriteRule ^req3 ./assets/pg/admins/requests_send_it.php [NC,L]
+RewriteRule ^req4 ./assets/pg/admins/requests_cancel.php [NC,L]
+RewriteRule ^req5 ./assets/pg/admins/requests_delivred.php [NC,L]
+
+RewriteRule ^discounts ./assets/pg/admins/discounts.php [NC,L]
+RewriteRule ^cat ./assets/pg/admins/cat.php [NC,L]
+
+RewriteRule ^director ./assets/pg/admins/director.php [NC,L]
+RewriteRule ^setting ./assets/pg/admins/setting.php [NC,L]
+
+RewriteRule ^del_product ./assets/pg/admins/delete_product.php [NC,L]
+RewriteRule ^edit_product ./assets/pg/admins/edit_product.php [NC,L]
+
+RewriteRule ^del_request ./assets/pg/admins/delete_request.php [NC,L]
+RewriteRule ^del_discount ./assets/pg/admins/delete_discount.php [NC,L]
+RewriteRule ^del_category ./assets/pg/admins/delete_category.php [NC,L]
+RewriteRule ^del_director ./assets/pg/admins/delete_director.php [NC,L]
+RewriteRule ^del_check_director ./assets/pg/admins/delete_check_director.php [NC,L]
+
+RewriteRule ^install ./assets/pg/admins/install/install.php [NC,L]
+RewriteRule ^tables_create ./assets/pg/admins/inc/tables.inc.php [NC,L]
+
+RewriteRule ^main_style ./assets/css/style.css [NC,L]
+
+RewriteRule ^show_products ./assets/pg/show_products.php [NC,L]
+RewriteRule ^order_now ./assets/pg/order_now.php [NC,L]
+
+RewriteRule ^sp_cat ./assets/pg/category.php [NC,L]
+
+RewriteRule ^thanks ./assets/pg/thanks.php [NC,L]
+
+RewriteRule ^coupons ./assets/pg/coupons.php [NC,L]
+
+
+RewriteRule ^main_page ./index.php [NC,L]
+                
